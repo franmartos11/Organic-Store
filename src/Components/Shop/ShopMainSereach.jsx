@@ -8,8 +8,8 @@ function ShopMainSereach(){
                     <button></button>
                 </div>
                 <div className="categoriasShop">
-                    <p  > Grocerys </p>
-                    <p  > Juice </p>
+                    <p> Grocerys </p>
+                    <p> Juice </p>
                 </div>
                 <div className="productosRecomendados">
 
