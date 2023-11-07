@@ -7,7 +7,7 @@ const ContactUs =()=>{
         <div>
             <HeaderContactUs></HeaderContactUs>
             <ContactUsInfoCards></ContactUsInfoCards>
-            <FrecuentlyAskedQuestions></FrecuentlyAskedQuestions>
+            
         </div>
     )
 }
